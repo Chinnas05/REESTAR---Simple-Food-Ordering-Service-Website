@@ -1,0 +1,58 @@
+.top {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+.top__1 {
+    color: beige;
+}
+
+.img1,
+.img2,
+.img3,
+.img4 {
+    width: 200px;
+    color: black(16, 10, 2, 0);
+    padding: 20px;
+    display: inline-block;
+    border: solid rgb(21, 13, 13) 2px;
+}
+
+.content {
+    text-align: center;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto 0;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.cont__send {
+    color: aliceblue;
+    display: inline-block;
+    background-color: darkkhaki;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.img1__button,
+.img2__button,
+.img3__button,
+.img4__button {
+    background-color: black;
+    color: aliceblue;
+}
+
+.content img {
+    width: 200px;
+    height: 200px;
+}
